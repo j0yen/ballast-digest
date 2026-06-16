@@ -1,0 +1,2 @@
+{"ts": "2026-06-16T10:00:00Z", "usage_pct": 96, "slo_band": "breach", "exit_code": 2, "reclaimed_bytes": 0}
+{"ts": "2026-06-16T11:00:00Z", "usage_pct": 94, "slo_band": "warn", "exit_code": 1, "reclaimed_bytes": 2147483648}

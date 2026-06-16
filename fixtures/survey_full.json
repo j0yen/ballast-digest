@@ -1,0 +1,8 @@
+{
+  "paths": [
+    {"path": "/home/jsy/wintermute/recall/target", "size_bytes": 2147483648, "class": "fossil", "reap_safety": 0.95},
+    {"path": "/home/jsy/wintermute/drydock/target", "size_bytes": 1073741824, "class": "stale", "reap_safety": 0.80},
+    {"path": "/home/jsy/.cache/pip", "size_bytes": 524288000, "class": "warm", "reap_safety": 0.50},
+    {"path": "/home/jsy/wintermute/brain/target", "size_bytes": 838860800, "class": "fossil", "reap_safety": 0.90}
+  ]
+}

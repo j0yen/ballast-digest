@@ -1,0 +1,7 @@
+{
+  "snapshots": [],
+  "paths": [
+    {"path": "/home/jsy/wintermute/recall/target", "bytes_per_day": 524288000, "eta_to_high_water_days": 3.0},
+    {"path": "/home/jsy/wintermute/brain/target", "bytes_per_day": 104857600, "eta_to_high_water_days": 15.0}
+  ]
+}
